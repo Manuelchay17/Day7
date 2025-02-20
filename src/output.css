@@ -2639,13 +2639,13 @@
 }
 @keyframes changeBackground {
   0% {
-    background-image: url('/src/foto1.jpg');
+    background-image: url('/foto1.jpg');
   }
   50% {
-    background-image: url('/src/foto2.jpg');
+    background-image: url('/foto2.jpg');
   }
   100% {
-    background-image: url('/src/foto3.jpg');
+    background-image: url('/foto3.jpg');
   }
 }
 .animate-bg {

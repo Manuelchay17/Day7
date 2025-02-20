@@ -55,3 +55,19 @@
     animation: slideUp 0.5s ease-out forwards;
 }
 
+
+.animate-slide-up2 {
+  animation: slide-up2 1s ease-out forwards; 
+}
+
+@keyframes slide-up2 { 
+  from {
+    transform: translateY(50px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
